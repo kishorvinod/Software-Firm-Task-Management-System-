@@ -1,5 +1,5 @@
 # Software Firm Task Management System
-
+![demo](Screenshot 2023-12-09 220239.png)
 ## Overview
 This project is a task management system for a software firm, developed using Java, Maven, MySQL, and Eclipse with Tomcat. It helps in managing tasks, assigning them to team members, and tracking the progress of each task.
 
