@@ -1,6 +1,6 @@
 # Software Firm Task Management System
 
-#demo
+# Demo
 ![demo](Screenshot 2023-12-09 220239.png)
 
 ## Overview
